@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "majestic-casing-399506",
+  "private_key_id": "63483a50df5f17cd7eda5fbcc298abef1a1e053c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC2LhuACzGMQZ4l\nnPMtkDC9nWfG69J4l3wMrFNq+89e5+srLtiAHjQLIpNYanXJcUpvEodtFRpiY0BT\nkbmbGARnb980VyvnatR0ZLmGH8VQEO6qcWWh5+wLRfcvJRQ4wiPvTLetY7Yi09E9\nf55SD0LToS+8ay/Zaa4mvx0+0BQyFvhJBoJoS4eJc4K8r+eDaPMeLlUyYujs7pV2\neYfpDgf/X3PkaZdpGUSAOlHU+6XC+fh2JaDOsLpcqsKTORwf6iw+gZGJpTdjgRyx\ndFOmUXx5oumdN6BhimFuUVDcOzEOy27wh/bWK0lFPFSW9Zos20Toaux66iqgUBsB\nKouR6tHlAgMBAAECggEANIvyBKm13eWjTugJQDAhzt9S6o5kg8H11tXxrZ75/j7Y\nlvkJG1Ma4cdURqFWXgceWBE5HJ6EoLJOAIy8w15XDtq2v6sRD8vBgdz3ohcR23k2\nzdStYti5Pbstg9ynC4P7x28SX6GuDDeaV6myqaqbNN1+HlOwVn5j6+sd7VspKBT5\nTA3qUP3qiCU7E0e/LJZIDiCuOrlPdy/+jHt38lzyq4huSb4NEpJCc+UEFYQg593d\nik1nKXAh3xpdW3l7qxkQHEAfCuwtCnEuiZX8CaWebyat/JIH7O5OkZMD36fXuzXr\naMDQ3DXTacGEox4UofS1aCpck8AbEKvDiRF4mLl2FQKBgQDiGuRvnKWamnCStznW\nHT0E6oW7VsGXUzJjHGJm8XWEyDdw0I1HyPcX2Vog/OyX2fe1WFPTmdQN/hYocoMd\nE1vSa+w59qwdYjYHQ2v9fWWkwkQFqXTGE0XjHK5IKzwkcvG12apMqkyvRajaVuJn\nBFvo7Sq6vjxpjJBD86jog3AWTwKBgQDORHZb4ys75qilA6Ycm6jatUfRs/ullhzs\nUMXMXg/rUAh5JD4pEv/Naqhy5g8oLu78N6/lyfNyul7bn4BBpRDAfIrsdpyF+T7v\nootou2e0RyBOo6DFtSY0dTunz3wqiadV1qEUUdWWTouTpeTONaEhVEVYE0MlyNwg\n0qK6Ak27iwKBgQCKYKT/veIIPY657BMkfF503McdwVnXsB49VAjRMeOXcSWlEK32\nigLXgLlNSR3PTaHxRW6AKTwDmEadWH/v0oI2xMAdNV9e2FVymovD5vPHIvGYeX4z\nH2Z9OXdcScGUGRjfD6jPJMar2jkd72C+ZYeOhV/KTFUSz+kW/U+ZhZ+atwKBgQCN\nH6w3LBL9dc/2rqttMVby5ErSAClxXmZFjPH35HdR0T0q3RAmfBhGS+4aRqsiHBJo\nwBT5zBVjbn3OF6/hufTfLZbDOFfZFfHodLabHnVSk8NX6n3qJwmPpJH/O2dBl1LE\n2Qb2ZxMSNoUqrLsCFxE6Q3T6UJuFc4qgblzllQPoBwKBgDjijTO5VfhrBs0ZhvDi\n73+rZfKwZTiweaJVN7hb8mrzlD5QS8hTUtAPgq8y+/W+9XCYIzn3pmQqn3U0oIvv\noMOaJrVzlmIEUD51TUTBCAVJAly9LVAn+frwcuOkvR0+a6t4Vd5gXLK7OJA4lK1B\n7OiKks19vYv2haQkKZeyknZM\n-----END PRIVATE KEY-----\n",
+  "client_email": "api-103@majestic-casing-399506.iam.gserviceaccount.com",
+  "client_id": "111065283382461899237",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/api-103%40majestic-casing-399506.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
